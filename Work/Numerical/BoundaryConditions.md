@@ -29,6 +29,9 @@ When solving differential equations (like the **Poisson equation**), boundary co
  - **Neumann BC** → Used when there's a fixed charge on a surface.
  
  - **Dirichlet BC** → Used when a plate is connected to a **voltage source** (e.g., capacitors).
+
+**References**:
+https://physics.stackexchange.com/questions/53455/dirichlet-and-neumann-boundary-condition-physical-example
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjc4MTg5MzBdfQ==
+eyJoaXN0b3J5IjpbMTA3MjMzOTY1OV19
 -->
