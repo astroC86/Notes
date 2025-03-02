@@ -1,5 +1,5 @@
 **1. Characteristic Element Length:**
-
+$h_e$ is the length of the element
 $$L_e = \frac{h_e}{2p + 1}$$
 
 **2. Convective Limit:**
@@ -32,5 +32,5 @@ Finally, the global time step is determined as
 
 $$\Delta t = \min_{e} \{ \Delta t^{(e)} \}$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3Nzg2NDc2XX0=
+eyJoaXN0b3J5IjpbLTE4NDUzODU5NDFdfQ==
 -->
