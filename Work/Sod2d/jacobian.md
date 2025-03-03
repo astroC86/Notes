@@ -1,5 +1,29 @@
-The code computes the element‐level Jacobian matrix for each Gauss integration point, its determinant, and then the inverse Jacobian. Here's how the operations can be written mathematically:
+The subroutine `elem_jacobian` computes the element‐level Jacobian matrix for each Gauss integration point, its determinant, and then the inverse Jacobian. Here's how the operations can be written mathematically:
+# 2D case
+code 
+```fortran
+do ielem = 1, nelem
+	do igaus = 1, ngaus
+		Je(:,:) = 0.0_rp
+		do inode = 1, nnode
+			node = connec(ielem, inode)
+			do jdime = 1, ndime
+				do idime = 1, ndime
+					Je(idime, jdime) = Je(idime, jdime) + dNgp(idime, inode, igaus) * coord(node, jdime)
+				end do
+			end do
+		end do
 
+		gpvol(1, igaus, ielem) = wgp(igaus) * (Je(1,1)*Je(2,2) - Je(2,1)*Je(1,2))
+		inv_det = 1.0_rp / (gpvol(1, igaus, ielem) / wgp(igaus))
+
+		He(1,1,igaus,ielem) =  Je(2,2) * inv_det
+		He(2,2,igaus,ielem) =  Je(1,1) * inv_det
+		He(1,2,igaus,ielem) = -Je(1,2) * inv_det
+		He(2,1,igaus,ielem) = -Je(2,1) * inv_det
+	end do
+end do
+```
 ## 1. Jacobian Matrix Calculation
 For a given element (indexed by $ielem$) and Gauss point (indexed by $igaus$), the $2×2$ Jacobian matrix $\mathbf{J}$ is computed by summing over the element's nodes:
 
@@ -41,5 +65,5 @@ He(2,2,igaus,ielem) &= J_{11} \cdot inv\_det.
 
 These equations fully describe the operations performed in the provided code.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5MTgyMTQzXX0=
+eyJoaXN0b3J5IjpbLTY0OTI5NzcxMl19
 -->
