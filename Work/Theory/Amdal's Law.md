@@ -1,5 +1,5 @@
 # Amdahl's Law for Program Speedup
-## Multiple Portions
+## 	Single Portion
 
 Let:
 - **$p$** be the fraction of the program's run time that is sped up (expressed as a decimal; for example, 40% → 0.40),
@@ -94,5 +94,5 @@ $$\boxed{\text{Percentage Reduction} = \left(1 - \left[\left(1 - \sum_i p_i\righ
 
 This formula accounts for both the accelerated and the non-accelerated parts of your program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTQzODY3NF19
+eyJoaXN0b3J5IjpbLTk0NTY2MjYwOV19
 -->
