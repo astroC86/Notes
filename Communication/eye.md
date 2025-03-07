@@ -9,6 +9,9 @@ on the left we see NRZ and on the right we see PAM  https://www.testandmeasureme
 ![enter image description here](https://i.imgur.com/11ul6wU.png)
 -   **Narrower Horizontal Opening:** Because bits arrive faster, each symbol interval is smaller, compressing the eye horizontally.
 -   **Clear Eye Opening (Margin):** Despite the higher symbol rate, if the “eye” (the open region in the middle) remains well-defined (not collapsed), it shows the link can reliably distinguish between logical ‘0’ and ‘1’ at those higher speeds.
+
+https://www.mathworks.com/help/comm/ug/eye-diagram-analysis.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDA1NzMzMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE1NTg5MDczMjUsLTM2MDA1NzMzMCwtMj
+A4ODc0NjYxMl19
 -->
