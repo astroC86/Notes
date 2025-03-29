@@ -9,8 +9,10 @@ Subjects:
 	-  7.  ISYE-6669  Deterministic Optimization
 		- Looks better during summer
 	-  8.  CS-6200  Graduate Introduction to Operating Systems
-	- Personal Learning:
-		- HPC Tools https://sites.gatech.edu/cse6230spring24/
+
+	
+- Personal Learning:
+	- HPC Tools https://sites.gatech.edu/cse6230spring24/
 
 Timeline:
 Summer    : 11 weeks + 1 final exams
@@ -21,6 +23,6 @@ Seminars Page: https://omscs.gatech.edu/cs-8001-seminars
 Grade distribution: https://lite.gatech.edu/lite_script/dashboards/grade_distribution.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjQzNDc5NCwtOTQ0MjMzNTksMTE5ND
+eyJoaXN0b3J5IjpbLTkwMjA1NzU2NiwtOTQ0MjMzNTksMTE5ND
 U0MTg1OF19
 -->
