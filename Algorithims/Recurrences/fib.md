@@ -6,7 +6,7 @@ $T(n) = T(n-1) + T(n-2) + c$.
 
 The standard method is to first solve the homogeneous part and then find a particular solution.
 
-#1. Solve the Homogeneous Recurrence
+**1. Solve the Homogeneous Recurrence**
 
 The homogeneous recurrence is
 $T_h(n) = T_h(n-1) + T_h(n-2)$.
@@ -34,7 +34,7 @@ $T_h(n) = A \phi^n + B \psi^n$,
 
 where $A$ and $B$ are constants determined by initial conditions.
 
-### 2. Find a Particular Solution
+**2. Find a Particular Solution**
 
 Now we need a particular solution $T_p(n)$ to the non-homogeneous recurrence
 $T(n) = T(n-1) + T(n-2) + c$.
@@ -52,7 +52,7 @@ $D - 2D = c \quad \Rightarrow \quad -D = c \quad \Rightarrow \quad D = -c$.
 Thus, a particular solution is
 $T_p(n) = -c$.
 
-### 3. Write the General Solution
+**3. The General Solution**
 
 The general solution to the recurrence is the sum of the homogeneous and particular solutions:
 $T(n) = T_h(n) + T_p(n) = A \phi^n + B \psi^n - c$.
@@ -63,35 +63,6 @@ Thus, we can conclude that
 $T(n) = \Theta(\phi^n)$,
 
 which means the recurrence grows exponentially with base $\phi$.
-
-### 4. Summary of Steps
-
-1. **Homogeneous Solution:**
-   * Assume $T_h(n) = r^n$.
-   * Obtain the characteristic equation: $r^2 - r - 1 = 0$.
-   * Solve to get $r_1 = \phi = \frac{1+\sqrt{5}}{2}$ and $r_2 = \psi = \frac{1-\sqrt{5}}{2}$.
-   * Write $T_h(n) = A \phi^n + B \psi^n$.
-
-2. **Particular Solution:**
-   * Guess $T_p(n) = D$ (a constant).
-   * Substitute to find $D = -c$.
-
-3. **General Solution:**
-   * Combine to get $T(n) = A \phi^n + B \psi^n - c$.
-   * As $n$ increases, $T(n) \sim \Theta(\phi^n)$.
-
-### Final Answer
-
-The solution to the recurrence
-$T(n) = T(n-1) + T(n-2) + O(1)$
-
-is
-$T(n) = A \left(\frac{1+\sqrt{5}}{2}\right)^n + B \left(\frac{1-\sqrt{5}}{2}\right)^n - c$,
-
-which asymptotically gives
-$T(n) = \Theta\!\left(\left(\frac{1+\sqrt{5}}{2}\right)^n\right)$.
-
-This completes the solution.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc1NjAzMjJdfQ==
+eyJoaXN0b3J5IjpbLTExNDY5MDMzNl19
 -->
