@@ -1,3 +1,4 @@
+Advic
 -   Visit the course page now to review the prerequisite knowledge.
 -   Ensure you have covered the required concepts before the semester begins.
 -   Students are expected to be familiar with:
@@ -8,5 +9,6 @@
 -   Fluency in these concepts is expected.
 -   If you struggled with these topics as an undergraduate or haven’t encountered them in a while, review them before the semester starts.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDA1NjcyNCw4NDQwMTQ0MDRdfQ==
+eyJoaXN0b3J5IjpbODk4NTkxMzQzLC03ODAwNTY3MjQsODQ0MD
+E0NDA0XX0=
 -->
