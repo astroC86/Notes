@@ -1,4 +1,0 @@
-Now is the right time to go to the course page, take a look at the prerequisite knowledge, and make sure you have those covered. The semester starts with students expected to already know things like how big O runtimes work, how Dijkstra's algorithm works, basic graph terminology, etc. Students take the course without that background knowledge all the time but it is an uphill battle. Keep in mind that you will be expected to be fluent with these concepts, so if you did poorly on those topics as an undergrad student or it's been a ... while since you've encountered them, you'll probably still want to review them before the semester starts.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0MDE0NDA0XX0=
--->
