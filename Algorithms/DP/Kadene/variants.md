@@ -61,11 +61,20 @@ Given a 2D matrix of integers, find the submatrix (formed by contiguous rows and
 **Problem:**  
 Given a 3D matrix of integers, find the submatrix (formed by contiguous rows and columns) with the maximum sum.  
 **Difficulty:** Hard  
-**Hint:** A common approach is to fix two rows, collapse the 2D problem into a 1D maximum subarray problem, and then iterate over all row pairs.
+**Hint:**
 
 ----------
 
-### 7. Maximum Non-Contiguous Subsequence Sum
+### 8. Maximum Subarray Sum in a ND Array
+
+**Problem:**  
+Given a N-D matrix of integers, find the sub-tensorr  with the maximum sum.  
+**Difficulty:** Hard  
+
+----------
+
+
+### 8. Maximum Non-Contiguous Subsequence Sum
 
 **Problem:**  
 Given an array of integers, find the subsequence (not necessarily contiguous) with the maximum sum.  
@@ -74,12 +83,12 @@ Given an array of integers, find the subsequence (not necessarily contiguous) wi
 
 ----------
 
-### 8. Online Maximum Subarray (Streaming)
+### 9. Online Maximum Subarray (Streaming)
 
 **Problem:**  
 Design an algorithm that processes an infinite stream of numbers and at any moment can output the maximum sum of a contiguous subsequence seen so far.  
 **Difficulty:** Hard  
 **Hint:** This variant challenges you to update your result without storing the entire stream; consider using online or incremental algorithms with limited memory.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTc5NTcxOF19
+eyJoaXN0b3J5IjpbNDg2MjU2MDk1XX0=
 -->
