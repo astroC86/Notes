@@ -1,5 +1,6 @@
 Subjects:
 	-  CS-6290  High-Performance Computer Architecture
+	- https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202508&crn_in=84003
 	-  CSE 6220  High Performance Computing
 	-  CS 7210  Distributed Computing
 	-  CS 8803-O21  Special Topics: GPU Hardware and Software
@@ -40,6 +41,6 @@ Registration is between Apr 11, 2025 to Aug 22, 2025
 - OAN is OMSA
 - OCY is OMS CyberSecurity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTc3NTI3NSwtMTUyMTYzODAzOCwtMz
+eyJoaXN0b3J5IjpbLTYzMjM5MjEwMiwtMTUyMTYzODAzOCwtMz
 E5NDQ3NDk4LC05NDQyMzM1OSwxMTk0NTQxODU4XX0=
 -->
