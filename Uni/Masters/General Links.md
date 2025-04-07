@@ -25,7 +25,11 @@ Grade distribution: https://lite.gatech.edu/lite_script/dashboards/grade_distrib
 
 Class schedule:
 https://oscar.gatech.edu/bprod/bwckschd.p_get_crse_unsec
+
+
+Fall 2025:
+RApr 11, 2025 to Aug 22, 2025
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2Mjg4MTkwLC0zMTk0NDc0OTgsLTk0ND
-IzMzU5LDExOTQ1NDE4NThdfQ==
+eyJoaXN0b3J5IjpbMTA1MzUzOTc1MSwtMzE5NDQ3NDk4LC05ND
+QyMzM1OSwxMTk0NTQxODU4XX0=
 -->
