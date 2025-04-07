@@ -3,7 +3,6 @@ Subjects:
 	-  CSE 6220  High Performance Computing
 	-  CS 7210  Distributed Computing
 	-  CS 8803-O21  Special Topics: GPU Hardware and Software
-	- 
 	-  CS 6515  Introduction to Graduate Algorithms
 	-  CS 6210  Advanced Operating Systems
 		- Never gets offered during summer
@@ -30,7 +29,9 @@ https://oscar.gatech.edu/bprod/bwckschd.p_get_crse_unsec
 
 Fall 2025:
 Registration is between Apr 11, 2025 to Aug 22, 2025
+
+https://oscar.gatech.edu/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk4ODk1MzcsLTMxOTQ0NzQ5OCwtOT
-Q0MjMzNTksMTE5NDU0MTg1OF19
+eyJoaXN0b3J5IjpbLTcxMTQxMzU4OCwtMzE5NDQ3NDk4LC05ND
+QyMzM1OSwxMTk0NTQxODU4XX0=
 -->
