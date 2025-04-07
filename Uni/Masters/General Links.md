@@ -34,7 +34,11 @@ Fall 2025:
 https://registrar.gatech.edu/info/current-academic-calendar
 Registration is between Apr 11, 2025 to Aug 22, 2025
 
+
+Shortforms:
+OCY means 'OMS CYber security'
+OAN means 'Oms ANalytics'
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE2MzgwMzgsLTMxOTQ0NzQ5OCwtOT
-Q0MjMzNTksMTE5NDU0MTg1OF19
+eyJoaXN0b3J5IjpbMTEzOTY0NDE0MywtMTUyMTYzODAzOCwtMz
+E5NDQ3NDk4LC05NDQyMzM1OSwxMTk0NTQxODU4XX0=
 -->
