@@ -20,9 +20,12 @@ Fall/Spring: 15 weeks + 1 exams
 
 
 Seminars Page: https://omscs.gatech.edu/cs-8001-seminars
+
 Grade distribution: https://lite.gatech.edu/lite_script/dashboards/grade_distribution.html
 
+Class schedule:
+https://oscar.gatech.edu/bprod/bwckschd.p_get_crse_unsec
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTQ0NzQ5OCwtOTQ0MjMzNTksMTE5ND
-U0MTg1OF19
+eyJoaXN0b3J5IjpbNjI2Mjg4MTkwLC0zMTk0NDc0OTgsLTk0ND
+IzMzU5LDExOTQ1NDE4NThdfQ==
 -->
