@@ -19,11 +19,10 @@ Timeline:
 Summer    : 11 weeks + 1 final exams
 Fall/Spring: 15 weeks + 1 exams
 
-
-Seminars Page: https://omscs.gatech.edu/cs-8001-seminars
+Seminars Page: 
+https://omscs.gatech.edu/cs-8001-seminars
 
 Grade distribution: https://lite.gatech.edu/lite_script/dashboards/grade_distribution.html
-
 
 Portal:
 https://oscar.gatech.edu/
@@ -41,6 +40,7 @@ Registration is between Apr 11, 2025 to Aug 22, 2025
 - OAN is OMSA
 - OCY is OMS CyberSecurity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjM5MjEwMiwtMTUyMTYzODAzOCwtMz
-E5NDQ3NDk4LC05NDQyMzM1OSwxMTk0NTQxODU4XX0=
+eyJoaXN0b3J5IjpbLTM5MjUzNzQ0LC02MzIzOTIxMDIsLTE1Mj
+E2MzgwMzgsLTMxOTQ0NzQ5OCwtOTQ0MjMzNTksMTE5NDU0MTg1
+OF19
 -->
